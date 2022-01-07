@@ -1,0 +1,38 @@
+#logoWeather {
+  margin-right: 10px ;
+  width: 40%;
+  height: 40%;
+  padding: -5px;
+}
+/* @media only screen and (max-width: 600px) {
+  body {
+    
+    background: rgb(14, 83, 174);
+  }
+} */
+.navbar{
+ border-radius: 5px;
+ box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.693);
+}
+.navbar-brand:hover{
+  padding-left: 20px;
+  width: 100%;
+  border-radius: 5px;
+  background: rgba(0, 0, 0, 0.46);
+}
+h4{
+  
+  display: inline-flex;
+  width: 60%;
+}
+.bg-dark{
+  background: linear-gradient(to right, #000046, #1cb5e0);
+}
+.spn{
+  
+  color: white;
+}
+.spn:hover{
+  color: black;
+  text-decoration-line: underline;
+}
